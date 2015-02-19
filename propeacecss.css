@@ -1,0 +1,13 @@
+h1 {
+	background-color: #20b2aa;
+	font-color: #FFA07A;
+	font-family: century;
+}
+a{
+	text-decoration: none;
+	font-color: #fff5ee;
+}
+a:hover{
+	color: #fff5ee;
+	text-decoration: none;
+}

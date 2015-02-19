@@ -1,0 +1,25 @@
+h1{
+	border: 0px;
+	padding: 0px;
+	background-color: #909090;
+	font-family: candara, italic, cambria;
+	font-size: 4em;
+
+}
+a{
+	text-decoration: none;
+}
+a:visited{
+	color: #909090;
+}
+a:hover{
+	color: #24569a;
+	text-decoration: underline;
+}
+img{
+	border-image: 2px;
+	border-color: navy;
+}
+#collage{
+	border: 1px;
+}
