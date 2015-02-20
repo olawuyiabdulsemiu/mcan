@@ -1,0 +1,66 @@
+/* This is my MCAN_New css */
+body{
+	background-color: #90ee90;
+
+}
+h1, h5{
+	text-align: center;
+	color: white;
+	background-color: green;
+	font-family: georgia, verdana, cambria, "sans serif";
+	margin: 0px;
+	width: 100%;
+	height: 2em;
+	/*letter-spacing: 0.09em;*/
+	padding: 0.5em;
+}
+
+h5{
+	background-color: white;
+	color: green;
+}
+
+ul#linkdem{
+	list-style: none;
+	/*margin: 1em;*/
+	padding: 0;
+}
+
+
+#linkdem a {
+	display: block;
+	float: left;
+	width: 150px;
+	font-weight: bold;
+	outline-width: 2px;
+}
+li{
+	line-height: 1.5em;
+}
+a{
+	text-decoration: none;
+	background-color: #98fb98;
+	padding: 0 3px;
+	border: 1px solid green;
+	font-family: candara;
+	font-size: 17px;
+}
+a:link{
+	color: #b22222;
+}
+a:visited{
+	color: #fa8072;
+}
+a:hover{
+	color: maroon;
+	border: 1px dashed white;
+}
+a:active{
+	color: white;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+
+}
